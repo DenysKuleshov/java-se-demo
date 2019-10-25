@@ -33,6 +33,8 @@ public class JavaTypesDemo {
         char c1 = 'A';
         
         System.out.println(x);
+        
+        //test comment
     }
     
 }

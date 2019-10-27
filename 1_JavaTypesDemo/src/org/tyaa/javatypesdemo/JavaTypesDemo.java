@@ -21,11 +21,12 @@ public class JavaTypesDemo {
         byte x1 = 127;
         byte x2 = -128;
         short x3 = 4545;
-        int x = 454543564;
+        double x =  ((12.000 + 5.000) / (8.000 * 19.000)) / 3.000;
         long x4 = 454543564346536L;
         
         float y1 = 12.55f;
         double y2 = 12.55d;
+     
         
         boolean b1 = true;
         b1 = false;
